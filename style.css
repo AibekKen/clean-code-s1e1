@@ -47,7 +47,7 @@
   width: 60px;
   font-family: Lato, sans-serif;
   cursor: pointer;
-  outline:none;
+  outline: none;
 }
 
 .button:hover {
@@ -80,7 +80,7 @@
   border-radius: 6px;
   font-family: Lato, sans-serif;
   color: #888;
-  outline:none;
+  outline: none;
 }
 
 .input:focus {
@@ -106,7 +106,7 @@
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
-  list-style:none;
+  list-style: none;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -122,7 +122,7 @@
   box-sizing: border-box;
   font-size: 18px;
   width: 226px;
-  list-style:none;
+  list-style: none;
 }
 
 .input_edit {
@@ -147,14 +147,14 @@
 
 /* Edit Task */
 .input_edit {
-  display:none;
+  display: none;
 }
 
 .edit-mode .input_edit {
-  display:inline-block;
-  width:224px;
+  display: inline-block;
+  width: 224px;
 }
 
 .edit-mode .tasks__name {
-  display:none;
+  display: none;
 }
